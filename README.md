@@ -1,4 +1,8 @@
-### Hi there 👋
+# Isabelle Gallucci
+* I am a student at the University of Wisconsin-Madison
+* I am an aspriting sports data scientist
+
+
 
 <!--
 **igallucci/igallucci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
