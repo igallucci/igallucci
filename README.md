@@ -1,6 +1,6 @@
 # Isabelle Gallucci
 
-
+Senior data science student at the University of Wisconsin - Madison with a passion for sports analytics and machine learning. 
 
 
 <!--
